@@ -32,3 +32,5 @@ python main.py
 - `task_dialog.py` — formulaire d'édition
 - `tasks.json` — données des tâches
 - `config.json` — préférences (thème)
+
+(je vais publier bientot la premiere release apres quelque fix et features.)
